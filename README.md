@@ -22,6 +22,7 @@ files can be used across accents with different splits and mergers, where the
 accents all share the same phonetic realisation of the Arpabet phonemes.
 
   *  [en-GB-x-rp](accents/en-GB-x-rp.csv) - Received Pronunciation (British English)
+  *  [en-US-x-genam](accents/en-US-x-genam.csv) - General American English
 
 ## License
 
