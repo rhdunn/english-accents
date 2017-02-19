@@ -14,6 +14,15 @@ resources can be built on a common framework.
    Also includes a description of the lexical sets used to contrast and
    describe different accents.
 
+## Accent Files
+
+The following accent files define mappings between the Arpabet transcriptions
+and broad IPA transcriptions that better represent the specified accent. These
+files can be used across accents with different splits and mergers, where the
+accents all share the same phonetic realisation of the Arpabet phonemes.
+
+  *  [en-GB-x-rp](accents/en-GB-x-rp.csv) - Received Pronunciation (British English)
+
 ## License
 
 Copyright (C) 2017 Reece H. Dunn (Cainteoir Technologies)
