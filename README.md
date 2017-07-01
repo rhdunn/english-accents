@@ -20,6 +20,9 @@ resources can be built on a common framework.
    transcriptions that better represent the specified accent. An empty cell
    indicates an unsupported Arpabet phoneme in that accent.
 
+*  [lexical-sets.csv](lexical-sets.csv) - The Arpabet transcriptions of the
+   different lexical sets for each accent.
+
 ## License
 
 Copyright (C) 2017 Reece H. Dunn (Cainteoir Technologies)
