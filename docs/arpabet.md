@@ -32,6 +32,7 @@ transcription for `NORTH` should be used, not the `FORCE` transcription.
 | DRESS       | `EH`   | `EH`   |
 | TRAP        | `AE`   | `AE`   |
 | LOT         | `OH`   | `AA`   |
+| CLOTH       | `OH`   | `AO`   |
 | STRUT       | `AH`   | `AH`   |
 | FOOT        | `UH`   | `UH`   |
 
@@ -41,6 +42,7 @@ transcription for `NORTH` should be used, not the `FORCE` transcription.
 |-------------|--------|--------|
 | FLEECE      | `IY`   | `IY`   |
 | PALM        | `AA`   | `AA`   |
+| BATH        | `AA`   | `AE`   |
 | THOUGHT     | `AO`   | `AO`   |
 | GOOSE       | `UW`   | `UW`   |
 
@@ -78,17 +80,6 @@ These are unstressed vowels that differ from the vowels in the main lexical sets
 | CHOICE      | `OY`   | `OY`   |
 | GOAT        | `OW`   | `OW`   |
 | MOUTH       | `AW`   | `AW`   |
-
-## Split Vowels
-
-These are lexical sets defined by John Wells that are merged with other lexical
-sets in both RP and GenAm, so have split from one of those lexical sets and
-merged with the other.
-
-| Lexical Set | RP     | GenAm  |
-|-------------|--------|--------|
-| BATH        | `AA`   | `AE`   |
-| CLOTH       | `OH`   | `AO`   |
 
 ## References
 
