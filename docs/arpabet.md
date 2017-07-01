@@ -65,7 +65,7 @@ These are unstressed vowels that differ from the vowels in the main lexical sets
 
 | Lexical Set | RP     | GenAm  |
 |-------------|--------|--------|
-| HAPPY       | `I`    | `IY`   |
+| HAPPY       | `IH`   | `IY`   |
 | COMMA       | `AX`   | `AX`   |
 | LETTER      | `AX`   | `AXR`  |
 
