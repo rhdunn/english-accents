@@ -17,12 +17,7 @@ phoneme set used by the CMU Pronunciation Dictionary and other resources.
 The vowel transcriptions use a classification system based on John Wells' Lexical
 Sets<sup>\[<a href="#ref1">1</a>\]</sup>. These were created by Wells in 1982
 by comparing the Received Pronunciation British (RP) and General American
-(GenAm) accents in use at that time. It supports the following accents:
-
-| Accent | Language Code   | Name                           |
-|--------|-----------------|--------------------------------|
-| RP     | `en-GB-x-rp`    | Received Pronunciation British |
-| GenAm  | `en-US-x-genam` | General American               |
+(GenAm) accents in use at that time.
 
 Where lexical sets have been merged in an accent you are transcribing but not
 in one of the accents listed here, the transcription of the lexical set the two
