@@ -86,9 +86,13 @@ These are unstressed vowels that differ from the vowels in the main lexical sets
 | Lexical Set | RP     | IrE    |
 |-------------|--------|--------|
 | MEAT        | `IY`   | `EY`   |
+| PUT         | `UH`   | `AH`   |
 
 The `MEAT` vowel is for accents that don't have the `MEAT`-`MEET` merger from
 the Great Vowel Shift.
+
+The `PUT` vowel is for accents that don't have the `PUT`-`CUT` split and
+`FOOT`-`PUT` merger.
 
 ## References
 
