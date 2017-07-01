@@ -10,13 +10,18 @@
 
 ----------
 
-This is a guide to transcribing the different English accents using the Arpabet
-phoneme set used by the CMU Pronunciation Dictionary and other resources.
+This is a guide to transcribing the following English accents using the Arpabet
+phoneme set used by the CMU Pronunciation Dictionary and other resources:
+
+| Accent | Language Code   | Name                                   |
+|--------|-----------------|----------------------------------------|
+| GenAm  | `en-US-x-genam` | General American English               |
+| IrE    | `en-IE`         | Irish English                          |
+| RP     | `en-GB-x-rp`    | Received Pronunciation British English |
 
 The vowel transcriptions use a classification system based on John Wells' Lexical
-Sets<sup>\[<a href="#ref1">1</a>\]</sup>. These were created by Wells in 1982
-by comparing the Received Pronunciation British (RP) and General American
-(GenAm) accents in use at that time.
+Sets. These were created by Wells in 1982 by comparing the RP and GenAm accents
+in use at that time.
 
 Where lexical sets have been merged in an accent you are transcribing but not
 in one of the accents listed here, the transcription of the lexical set the two
