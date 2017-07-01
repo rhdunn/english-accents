@@ -1,12 +1,12 @@
 # English Accents
 
+- [Data Files](#data-files)
+- [References](#references)
 - [License](#license)
 
 ----------
 
-This project is an investigation into the different accents of English. It's
-aim is to accurately describe those accents such that pronunciation
-dictionaries, text-to-speech voices and other computational linguistics
+This project is an investigation into the to accurately describe those accents such that pronunciation
 resources can be built on a common framework.
 
 *  [Arpabet Transcriptions](docs/arpabet.md) - Describes how to transcribe
@@ -22,6 +22,12 @@ resources can be built on a common framework.
 
 *  [lexical-sets.csv](lexical-sets.csv) - The Arpabet transcriptions of the
    different lexical sets for each accent.
+
+## References
+
+1. <a name="ref1"></a> Wikipedia.
+   [Lexical set](https://en.wikipedia.org/wiki/Lexical_set). 2017.
+   Creative Commons Attribution-Sharealike 3.0 Unported License (CC-BY-SA).
 
 ## License
 

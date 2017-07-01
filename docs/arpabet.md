@@ -6,7 +6,6 @@
 - [Reduced Vowels](#reduced-vowels)
 - [Diphthongs](#diphthongs)
 - [Historic Vowels](#historic-vowels)
-- [References](#references)
 - [License](#license)
 
 ----------
@@ -93,12 +92,6 @@ the Great Vowel Shift.
 
 The `PUT` vowel is for accents that don't have the `PUT`-`CUT` split and
 `FOOT`-`PUT` merger.
-
-## References
-
-1. <a name="ref1"></a> Wikipedia.
-   [Lexical set](https://en.wikipedia.org/wiki/Lexical_set). 2017.
-   Creative Commons Attribution-Sharealike 3.0 Unported License (CC-BY-SA).
 
 ## License
 
