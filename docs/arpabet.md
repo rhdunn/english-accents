@@ -5,7 +5,7 @@
 - [Rhotic Vowels](#rhotic-vowels)
 - [Reduced Vowels](#reduced-vowels)
 - [Diphthongs](#diphthongs)
-- [Split Vowels](#split-vowels)
+- [Historic Vowels](#historic-vowels)
 - [References](#references)
 - [License](#license)
 
@@ -80,6 +80,15 @@ These are unstressed vowels that differ from the vowels in the main lexical sets
 | CHOICE      | `OY`   | `OY`   |
 | GOAT        | `OW`   | `OW`   |
 | MOUTH       | `AW`   | `AW`   |
+
+## Historic Vowels
+
+| Lexical Set | RP     | IrE    |
+|-------------|--------|--------|
+| MEAT        | `IY`   | `EY`   |
+
+The `MEAT` vowel is for accents that don't have the `MEAT`-`MEET` merger from
+the Great Vowel Shift.
 
 ## References
 
