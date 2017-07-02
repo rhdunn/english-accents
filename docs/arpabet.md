@@ -93,6 +93,7 @@ These are unstressed vowels that differ from the vowels in the main lexical sets
 | MEAT        | `IY`   | `EY`   | `IY`   |
 | PUT         | `UH`   | `AH`   | `UW`   |
 | TERM        | `ER`   | `ER`   | `EH R` |
+| BIRD        | `ER`   | `ER`   | `IH R` |
 
 The `MEAT` vowel is for accents that don't have the `MEAT`-`MEET` merger from
 the Great Vowel Shift.
@@ -100,7 +101,9 @@ the Great Vowel Shift.
 The `PUT` vowel is for accents that don't have the `PUT`-`CUT` split and
 `FOOT`-`PUT` merger.
 
-The `TERM` vowel is for accents that don't have the `FERN`-`FUR` merger.
+The `TERM` vowel is for accents that don't have the `FUR`-`FERN` merger.
+
+The `BIRD` vowel is for accents that don't have the `FUR`-`FIR` merger.
 
 ## License
 
