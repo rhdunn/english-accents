@@ -18,6 +18,7 @@ phoneme set used by the CMU Pronunciation Dictionary and other resources:
 | GenAm  | `en-US-x-genam` | General American English               |
 | IrE    | `en-IE`         | Irish English                          |
 | RP     | `en-GB-x-rp`    | Received Pronunciation British English |
+| ScE    | `en-scotland`   | Scottish English                       |
 
 The vowel transcriptions use a classification system based on John Wells' Lexical
 Sets. These were created by Wells in 1982 by comparing the RP and GenAm accents
