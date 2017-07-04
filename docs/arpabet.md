@@ -96,6 +96,7 @@ These are unstressed vowels that differ from the vowels in the main lexical sets
 | BIRD        | `ER`   | `ER`   | `IH R` | `ER`   |
 | PAIN        | `EY`   | `EY`   | `EY`   | `EI`   |
 | THREW       | `UW`   | `UW`   | `UW`   | `IU`   |
+| CUTE        | `Y UW` | `Y UW` | `Y UW` | `IU`   |
 
 The `MEAT` vowel is for accents that don't have the `MEAT`-`MEET` merger from
 the Great Vowel Shift.
@@ -110,6 +111,8 @@ The `BIRD` vowel is for accents that don't have the `FUR`-`FIR` merger.
 The `PAIN` vowel is for accents that don't have the `PANE`-`PAIN` merger.
 
 The `THREW` vowel is for accents that don't have the `YOU`-`YEW` merger.
+
+The `CUTE` vowel is for accents that don't have the `YEW`-`EWE` merger.
 
 ## License
 
