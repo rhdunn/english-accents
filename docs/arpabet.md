@@ -97,6 +97,7 @@ These are unstressed vowels that differ from the vowels in the main lexical sets
 | PAIN        | `EY`   | `EY`   | `EY`   | `EI`   |
 | THREW       | `UW`   | `UW`   | `UW`   | `IU`   |
 | CUTE        | `Y UW` | `Y UW` | `Y UW` | `IU`   |
+| FOLK        | `OW`   | `OW`   | `OW`   | `OU`   |
 
 The `MEAT` vowel is for accents that don't have the `MEAT`-`MEET` merger from
 the Great Vowel Shift.
@@ -104,15 +105,23 @@ the Great Vowel Shift.
 The `PUT` vowel is for accents that don't have the `PUT`-`CUT` split and
 `FOOT`-`PUT` merger.
 
-The `TERM` vowel is for accents that don't have the `FUR`-`FERN` merger.
+The `TERM` vowel is for accents that don't have the `FUR`-`FERN`
+(`NURSE`-`TERM`) merger.
 
-The `BIRD` vowel is for accents that don't have the `FUR`-`FIR` merger.
+The `BIRD` vowel is for accents that don't have the `FUR`-`FIR`
+(`NURSE`-`BIRD`) merger.
 
-The `PAIN` vowel is for accents that don't have the `PANE`-`PAIN` merger.
+The `PAIN` vowel is for accents that don't have the `PANE`-`PAIN`
+(`FACE`-`PAIN`) merger.
 
-The `THREW` vowel is for accents that don't have the `YOU`-`YEW` merger.
+The `THREW` vowel is for accents that don't have the `YOU`-`YEW`
+(`GOOSE`-`THREW`) merger.
 
-The `CUTE` vowel is for accents that don't have the `YEW`-`EWE` merger.
+The `CUTE` vowel is for accents that don't have the `YEW`-`EWE`
+(`GOOSE`-`CUTE`) merger.
+
+The `FOLK` vowel is for accents that don't have the `TOE`-`TOW`
+(`GOAT`-`FOLK`) merger.
 
 ## License
 
