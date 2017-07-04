@@ -98,6 +98,7 @@ These are unstressed vowels that differ from the vowels in the main lexical sets
 | THREW       | `UW`   | `UW`   | `UW`   | `IU`   |
 | CUTE        | `Y UW` | `Y UW` | `Y UW` | `IU`   |
 | FOLK        | `OW`   | `OW`   | `OW`   | `OU`   |
+| SOUL        | `OU`   | `OW`   | `OW`   | `OU`   |
 
 The `MEAT` vowel is for accents that don't have the `MEAT`-`MEET` merger from
 the Great Vowel Shift.
@@ -122,6 +123,9 @@ The `CUTE` vowel is for accents that don't have the `YEW`-`EWE`
 
 The `FOLK` vowel is for accents that don't have the `TOE`-`TOW`
 (`GOAT`-`FOLK`) merger.
+
+The `SOUL` vowel is for accents that have a `GOAT`-`SOUL` split, or have
+resisted the `GOAT`-`SOUL` merger.
 
 ## License
 
