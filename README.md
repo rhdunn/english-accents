@@ -33,6 +33,10 @@ resources can be built on a common framework.
    [International Phonetic Alphabet chart for English dialects](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart_for_English_dialects). 2017.
    Creative Commons Attribution-Sharealike 3.0 Unported License (CC-BY-SA).
 
+3. <a name="ref2"></a> Wikipedia.
+   [Phonological history of English diphthongs](https://en.wikipedia.org/wiki/Phonological_history_of_English_diphthongs). 2017.
+   Creative Commons Attribution-Sharealike 3.0 Unported License (CC-BY-SA).
+
 ## License
 
 Copyright (C) 2017 Reece H. Dunn (Cainteoir Technologies)

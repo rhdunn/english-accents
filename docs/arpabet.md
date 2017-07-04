@@ -88,12 +88,13 @@ These are unstressed vowels that differ from the vowels in the main lexical sets
 
 ## Historic Vowels
 
-| Lexical Set | RP     | IrE    | ScE    |
-|-------------|--------|--------|--------|
-| MEAT        | `IY`   | `EY`   | `IY`   |
-| PUT         | `UH`   | `AH`   | `UW`   |
-| TERM        | `ER`   | `ER`   | `EH R` |
-| BIRD        | `ER`   | `ER`   | `IH R` |
+| Lexical Set | RP     | IrE    | ScE    | WaE    |
+|-------------|--------|--------|--------|--------|
+| MEAT        | `IY`   | `EY`   | `IY`   | `IY`   |
+| PUT         | `UH`   | `AH`   | `UW`   | `UH`   |
+| TERM        | `ER`   | `ER`   | `EH R` | `ER`   |
+| BIRD        | `ER`   | `ER`   | `IH R` | `ER`   |
+| PAIN        | `EY`   | `EY`   | `EY`   | `EI`   |
 
 The `MEAT` vowel is for accents that don't have the `MEAT`-`MEET` merger from
 the Great Vowel Shift.
@@ -104,6 +105,8 @@ The `PUT` vowel is for accents that don't have the `PUT`-`CUT` split and
 The `TERM` vowel is for accents that don't have the `FUR`-`FERN` merger.
 
 The `BIRD` vowel is for accents that don't have the `FUR`-`FIR` merger.
+
+The `PAIN` vowel is for accents that don't have the `PANE`-`PAIN` merger.
 
 ## License
 
